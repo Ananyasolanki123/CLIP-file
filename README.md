@@ -5,6 +5,7 @@ This project is a lightweight Flask API that uses **OpenAI’s CLIP model** to e
 Used as part of **Style Studio’s Game Zone**, this model powers theme-based design challenges and automatically scores user submissions.
 
 ---
+Style Studio APP Repo-https://github.com/Ananyasolanki123/StyleStudio
 
 ## 🚀 Features
 
